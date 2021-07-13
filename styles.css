@@ -1,0 +1,5 @@
+/* for highlighting the webpage after detection of fake news  */
+/* for eg. : make the lines yellow highlighted */
+body{
+    background-color: rgb(243, 106, 43);
+}
